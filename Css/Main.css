@@ -615,6 +615,10 @@ header .header .form i {
 .about .img {
     min-height: 300px;
     text-align: center;
+    background-color: #dadada;
+}
+.about .img img {
+    display:none
 }
 /* End About Us */
 /* Start Progress  */
